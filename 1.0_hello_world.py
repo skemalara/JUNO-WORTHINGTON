@@ -45,7 +45,8 @@ print("Welcome to my Python exercises."
 
 print("Hello, world!")
 print("1. Hello, world!")
-print("3. Hello, world!")print("4. Hello, world!")  
+print("3. Hello, world!")
+print("4. Hello, world!")  
 
 for i in range (0,5): 
     print("Welcome, let's keep going")
